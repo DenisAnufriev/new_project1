@@ -4,7 +4,7 @@ def str_func(text):
     """
     return text.upper()
 
-str_func(input())
+print(str_func(input()))
 
 
 def str_func2(text):
@@ -13,4 +13,4 @@ def str_func2(text):
     """
     return text.title()
 
-str_func2(input())
+print(str_func2(input()))
